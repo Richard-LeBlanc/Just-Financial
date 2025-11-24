@@ -3,6 +3,8 @@
 Just Financial is a financial planning app for the developer's Systems Project class.
 The class is meant to replicate the process of creating an app in an agile environment.
 
+______________________
+
 
 ## Methodology:
 
@@ -41,6 +43,8 @@ goals, we have designed 66 features, distributed in the following 9 broad catego
 - Personalization & Usability
 - Spending Insights & Recommendations
 - Data Management & Integration
+
+_________________________
 
 
 ## Contributing Members
